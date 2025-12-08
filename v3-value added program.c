@@ -19,7 +19,7 @@ int main()
     printf("Welcome to the Guess the Number game!\n");
     printf("select a random number between 1 and 10.\n\n");
 
-    //
+
     while (true)
     {
         printf("Enter your guess: ");
